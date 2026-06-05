@@ -53,3 +53,29 @@
 | **Persistence** | Appends to master list, never overwrites |
 
 ### Example Output (`all_domains.txt`)
+http://evandriaprimajasindo.co.id
+http://ilmiteknik.co.id
+http://panduwarta.com
+https://e-umkmkediri.com
+http://targetsite-get-deface.com
+
+
+---
+
+## 🛠 INSTALLATION
+
+### Prerequisites
+- **Python 3.7+** installed on your system
+- **pip** (Python package manager)
+- **git** (optional, for cloning)
+
+### Step 1 — Clone the Repository
+```bash
+git clone https://github.com/thisnull7/grabdom.git
+cd grabdom
+pip install -r requirements.txt
+pip install requests beautifulsoup4 colorama
+python grab.py
+
+
+<p align="center"> <img src="https://img.shields.io/badge/Made%20with-Pain%20%26%20Python-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Hunting%20Domains-darkred?style=for-the-badge"> </p><p align="center"> <b>☠ THE WINNER TAKES ALL :(</b> </p> ```
