@@ -52,7 +52,7 @@
 | **Scope** | ALL pages for that attacker |
 | **Persistence** | Appends to master list, never overwrites |
 
-### Example Output (`all_domains.txt`)
+# Example Output (`all_domains.txt`)
 http://evandriaprimajasindo.co.id
 
 http://ilmiteknik.co.id
