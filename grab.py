@@ -21,8 +21,8 @@ def show_banner():
   ╚██████╔╝██║  ██║██║  ██║██████╔╝██████╔╝╚██████╔╝██║ ╚═╝ ██║
    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
 {Fore.RED}╔══════════════════════════════════════════════════════════════════╗
-{Fore.RED}║ {Fore.WHITE}[ {Fore.RED}☠ GRABDOM v2.0 {Fore.WHITE}] {Fore.YELLOW}Domain Ripper - hax.or.id Archive Extractor    {Fore.RED}║
-{Fore.RED}║ {Fore.WHITE}[ {Fore.RED}⚡ Created by null7 {Fore.WHITE}] {Fore.CYAN}Real-time save. One list to rule them all.     {Fore.RED}║
+{Fore.RED}║ {Fore.WHITE}[ {Fore.RED}☠ GRABDOM v2.0 {Fore.WHITE}] {Fore.YELLOW}Domain Ripper - hax.or.id Archive Extractor   {Fore.RED}║
+{Fore.RED}║ {Fore.WHITE}[ {Fore.RED}⚡ Created by null7 {Fore.WHITE}] {Fore.CYAN}Real-time save. One list to rule them all.  {Fore.RED}║
 {Fore.RED}╚══════════════════════════════════════════════════════════════════╝
 
 {Fore.WHITE}{Style.BRIGHT}  📌 TOOL DESCRIPTION:
