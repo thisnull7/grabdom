@@ -54,9 +54,13 @@
 
 ### Example Output (`all_domains.txt`)
 http://evandriaprimajasindo.co.id
+
 http://ilmiteknik.co.id
+
 http://panduwarta.com
+
 https://e-umkmkediri.com
+
 http://targetsite-get-deface.com
 
 
