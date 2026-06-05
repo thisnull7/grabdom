@@ -124,13 +124,12 @@ def scrape_attacker(name):
                 if '.' in cleaned:
                     page_domains.add(cleaned)
         
-        # Filter out domains already in master file
+      
         new_on_page = page_domains - existing_domains
         
         print(Fore.GREEN + f"      ↳ Found: {Fore.WHITE}{len(page_domains)} {Fore.GREEN}| New: {Fore.WHITE}{len(new_on_page)}")
         
         if new_on_page:
-            # SAVE IMMEDIATELY
             save_domains_now(new_on_page)
             existing_domains.update(new_on_page)
             attacker_domains.update(new_on_page)
