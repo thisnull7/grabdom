@@ -73,7 +73,7 @@ http://targetsite-get-deface.com
 - **pip** (Python package manager)
 - **git** (optional, for cloning)
 
-### Step 1 — Clone the Repository
+### Step installation
 ```bash
 git clone https://github.com/thisnull7/grabdom.git
 cd grabdom
