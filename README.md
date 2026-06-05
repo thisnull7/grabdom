@@ -77,5 +77,3 @@ pip install -r requirements.txt
 pip install requests beautifulsoup4 colorama
 python grab.py
 
-
-<p align="center"> <img src="https://img.shields.io/badge/Made%20with-Pain%20%26%20Python-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Hunting%20Domains-darkred?style=for-the-badge"> </p><p align="center"> <b>☠ THE WINNER TAKES ALL :(</b> </p> ```
